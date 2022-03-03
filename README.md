@@ -1,2 +1,2 @@
 # Blood_Bank
-Here is the project blood bank.
+Developed a project blood bank.
